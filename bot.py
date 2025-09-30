@@ -5,7 +5,7 @@ from datetime import time
 from zoneinfo import ZoneInfo
 
 # 🔑 التوكن تبع البوت
-TOKEN = "8303213892:AAFxBUaTaWylw4yEydvRT7ruh6BPT_t4IHA"
+TOKEN = "8303213892:AAGzX2Kxe59KUegcUMaYPtVSv54XEhB3d-c"
 
 # 🔑 معرف القناة (خاصة)
 CHANNEL_ID = -1002977291153
